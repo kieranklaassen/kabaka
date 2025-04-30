@@ -19,7 +19,7 @@
     "@material-ui/icons": "^4.0.1",
     "@material-ui/lab": "^v4.0.0-alpha.14",
     "pattern": "file:..",
-    "prismjs": "1.16.0",
+    "prismjs": "1.30.0",
     "react": "^16.8",
     "react-dom": "^16.8",
     "typeface-roboto-condensed": "latest"
